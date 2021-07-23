@@ -1,0 +1,30 @@
+body
+{
+    background: grey;
+}
+
+#testimage {
+    color: white;
+}
+
+ol
+{
+    box-shadow: 10px 10px 10px white;
+    background:paleturquoise;
+    height: 700;
+    width: 400;
+    border-radius: 25px;
+}
+
+.bob3
+{
+    text-align: center;
+    background: gray;
+    height: 100;
+    width: 300;
+}
+
+ img {
+    height: 500;
+    width: 500;
+}
